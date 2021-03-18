@@ -5,8 +5,8 @@ pyparsing
 sympy
 psutil
 emoji
+crasync==2.1.4
 wikipedia
-crasync
 cr-py
 urban-async
 safygiphy
